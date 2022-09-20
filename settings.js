@@ -41,8 +41,8 @@ global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
+global.owner = ['923180327106']
+global.ownertag = '923180327106' //ur tag number
 global.botname = '᬴᭄₁ᷢ₀₆᬴᭄ͥ₀₃ᷢ₁ͥ₈ᷦ₀ᷱ₃ᷲ₂ᷡ₇ᷲ₁ᷯₒᷝ₆࿈᭄' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
